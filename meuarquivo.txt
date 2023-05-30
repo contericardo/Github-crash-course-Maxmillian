@@ -1,2 +1,4 @@
 esse é o meu arquivo, acabei de criar !
 às 15:17 estava untracked
+
+Está no branch master, mas não no "br01"
